@@ -4,11 +4,12 @@ This project is an initiative to digitize Diwan's kuldevi **Katyayni Devi**
 
 ### Phase - 1 
 A static website to show  
-1. About Katyayni Devi
+1. Home
+2. About Katyayni Devi
 2. News
-3. Events
-4. Photos
-5. Location
+4. Events
+5. Photos
+6. Location
 
 ### Phase - 2
 Add Hindi language support
